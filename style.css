@@ -1,0 +1,40 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Roboto, sans-serif;
+}
+
+#title {
+    left: 20px;
+    margin-left: 80px;
+    padding: 0;
+    font-size: 30px;
+}
+
+body nav h1 {
+    display: inline-block;
+    position: relative;
+    color: white;
+    left: 500px;
+    margin-right: 50px;
+    padding: 20px;
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+article {
+    margin: 20px 100px;
+    position: relative;
+    top: 100px;
+}
+
+article h2 {
+    width: 200px;
+    color: white;
+
+}
+
+article p {
+    width: 500px;
+    color: white;
+}
